@@ -1,5 +1,5 @@
 # Past Projects
-Here are some of the various projects I have worked on:
+Here are some of the various projects I have worked on in college:
 
 # Amaris: Realm of Dreams: #
 To play, unzip the file in the repository. If you are a Mac user, navigate to the "Mac" folder and double click the .app file. If you are a Windows user, navigate to the "Windows" file and double click the .exe file. 
