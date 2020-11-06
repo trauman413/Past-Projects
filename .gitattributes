@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+Amaris[[:space:]]Realm[[:space:]]of[[:space:]]Dreams.zip filter=lfs diff=lfs merge=lfs -text
